@@ -1,1 +1,12 @@
-h1, h2, p {text-align: center;}
+/*body {background-color: burlywood}*/
+
+div {
+    width: 80%;/*This makes the div not take up the entire width of the page only 80% of the parent element(body). */
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+
+h1, h2, p {text-align: center}
+
