@@ -1,6 +1,6 @@
 /*body {background-color: burlywood}*/
 
-div {
+.menu {
     width: 80%;/*This makes the div not take up the entire width of the page only 80% of the parent element(body). */
     background-color: burlywood;
     margin-left: auto;
