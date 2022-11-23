@@ -1,4 +1,6 @@
-/*body {background-color: burlywood}*/
+body {
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg); 
+}
 
 .menu {
     width: 80%;/*This makes the div not take up the entire width of the page only 80% of the parent element(body). */
